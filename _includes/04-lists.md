@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* paychecks
+* travel
+* someone else doing the dishes
+* new books
